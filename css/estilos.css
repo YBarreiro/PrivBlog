@@ -1,0 +1,167 @@
+.boton_busqueda{ 
+	background-color: white;
+	border-color: #d3d3d3;
+}
+
+.parrafo_email{
+	display:inline-block;
+}
+
+.boton_contrasenya{
+	display:block;
+}
+
+.años_archivo{
+	display:inline-block;
+}
+
+#error_nombre_vacio{
+	display:none;
+}
+
+
+
+#error_nombre{
+	display:none;
+}
+
+
+#error_email_vacio{
+	display:none;
+}
+
+#error_email{
+	display:none;
+}
+
+#error_pass_vacio{
+	display:none;
+}
+
+#error_pass{
+	display:none;
+}
+
+#error_pass2_vacio{
+	display:none;
+}
+
+#error_pass_igual{
+	display:none;
+}
+
+#vacio_sexo{
+	display:none;
+}
+
+#error_pass_igual{
+	display:none;
+}
+
+#error_terminos_vacio{
+	display:none;
+}
+
+
+#error_nuevo_email_vacio{
+	display:none;
+}
+
+#error_nuevo_email{
+	display:none;
+}
+
+#error_pass_cambiar_email{
+	display:none;
+}
+
+#error_pass_coincidentes{
+	display:none;
+}
+
+#error_categoria_vacio{
+	display:none;
+}
+
+#error_categoria{
+	display:none;
+}
+
+#error_categoria_nueva_vacia{
+	display:none;
+	color:red;
+}
+
+#error_categoria_nueva_repetida{
+	display:none;
+	color:red;
+}
+
+#error_pass_conectado{
+	display:none;
+}
+
+
+
+.breadcrumb{
+	background-color: white;
+	color:#17a2b8;
+	
+
+}
+
+.guia{
+	color:#17a2b8;
+}
+
+
+
+body {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  min-height: 100vh;
+}
+
+.content {
+  flex: 1;
+}
+
+a{
+	color:grey;
+}
+
+.validacion{
+	color: red;
+	
+}
+
+.colorinfo{
+	color:#17a2b8;
+}
+
+nav a{
+	color:#17a2b8;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
