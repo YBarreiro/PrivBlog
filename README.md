@@ -1,4 +1,4 @@
-# PrivBlog · Proyecto de Aplicación Web
+# PrivBlog 
 
 PrivBlog es una aplicación web desarrollada como parte del CFGS en Desarrollo de Aplicaciones Web. Su objetivo es ofrecer a los usuarios un espacio privado para escribir y gestionar su propio blog, combinando la intimidad de un diario personal con las ventajas de un sistema de gestión de contenidos.
 
@@ -11,7 +11,7 @@ PrivBlog es una aplicación web desarrollada como parte del CFGS en Desarrollo d
 - Panel de estadísticas para administradores
 - Perfil de usuario con opciones de edición y eliminación
 
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - PHP (PDO)
 - MySQL
@@ -30,6 +30,14 @@ PrivBlog es una aplicación web desarrollada como parte del CFGS en Desarrollo d
 
 Este repositorio acompaña la memoria técnica del proyecto, disponible [aquí](enlace si lo subes o lo compartes).
 
-## ⚠️ Nota
+## Cómo ejecutar la aplicación
 
-Este proyecto fue desarrollado en entorno local 
+## 🧪 Cómo ejecutar la aplicación
+
+PrivBlog es una aplicación web que funciona en entorno local. Para probarla:
+
+1. Instala XAMPP o similar (Apache + MySQL)
+2. Copia el proyecto en la carpeta `htdocs`
+3. Crea una base de datos en phpMyAdmin e importa el archivo `.sql` desde `base_privblog/`
+4. Accede desde el navegador a `http://localhost/PrivBlog/index.php`
+ 
