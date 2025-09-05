@@ -26,10 +26,6 @@ PrivBlog es una aplicación web desarrollada como parte del CFGS en Desarrollo d
 - `controlador/` · Conexión entre modelo y vista
 - `css/`, `js/`, `fotos/` · Recursos estáticos
 
-## Documentación
-
-Este repositorio acompaña la memoria técnica del proyecto, disponible [aquí](enlace si lo subes o lo compartes).
-
 ## Cómo ejecutar la aplicación
 
 ## 🧪 Cómo ejecutar la aplicación
